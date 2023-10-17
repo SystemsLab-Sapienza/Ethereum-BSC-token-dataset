@@ -24,7 +24,6 @@ url = {https://www.usenix.org/conference/usenixsecurity23/presentation/cernera},
 publisher = {USENIX Association},
 month = aug
 }
-
 ```
 
 ## The Datasets
@@ -44,7 +43,6 @@ Each row of this file contains:
 * **gas_price**: The gas price of the creation transaction
 * **gas_used**: The gas used by the creation transaction
 * **block_number**: The number of the block containing the token creation transaction
-* **block_time**:  The Unix timestamp when the block was added to the blockchain
 
 
 ### The Liquidity Pool Dataset (```lp_dataset.csv```)
@@ -58,7 +56,6 @@ Each row of this file contains:
 * **gas_price**: The gas price of the creation transaction
 * **gas_used**: The gas used by the creation transaction
 * **block_number**: The number of the block containing the liquidity pool creation transaction
-* **block_time**:  The Unix timestamp when the block was added to the blockchain
   
 
 ## The Tool
