@@ -28,7 +28,7 @@ month = aug
 ```
 
 ## The Datasets
-The dataset is divided into four files. The ```token_dataset_eth.csv``` and ```lp_dataset_eth.csv``` contain all the data related to Ethereum,
+The dataset is divided into four files contained in the ```dataset``` folder. The ```token_dataset_eth.csv``` and ```lp_dataset_eth.csv``` contain all the data related to Ethereum,
 whereas the ```token_dataset_bsc.csv``` and ```lp_dataset_bsc.csv``` contain all the data related to the BNB Smart Chain (BSC).
 The files contain the same columns for Ethereum and BSC.
 
