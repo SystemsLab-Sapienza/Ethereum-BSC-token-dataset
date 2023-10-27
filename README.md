@@ -13,7 +13,7 @@ If you use this dataset, or use the findings from the paper, please cite:
 
 ```
 @inproceedings {287184,
-author = {Federico Cernera and Massimo La Morgia and Alessandro Mei and Francesco Sassi},
+author={Cernera, Federico and La Morgia, Massimo and Mei, Alessandro and Sassi, Francesco},
 title = {Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain ({{{{{BNB}}}}})},
 booktitle = {32nd USENIX Security Symposium (USENIX Security 23)},
 year = {2023},
