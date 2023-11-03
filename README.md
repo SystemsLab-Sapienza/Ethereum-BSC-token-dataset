@@ -60,17 +60,17 @@ Each row of this file contains:
 * **block_number**: The number of the block containing the liquidity pool creation transaction
   
 
-## The Tool
+## TokenScout
 
 Clone this repository and run:
 
 ```
 pip3 install -r requirements.txt
 ```
-To check if a token is ERC-20/BEP-20 compliant, run the ```cli.py``` script:
+To check if a token is ERC-20/BEP-20 compliant, run the ```token_scout.py``` script:
 
 ```
-python3 cli.py -a address -b blockchain 
+python3 token_scout.py -a address -b blockchain 
 ```
 
 * **-a**: This argument indicates the address to check
@@ -82,9 +82,9 @@ Then, if it is ERC-20/BEP-20 compliant, it also provides the name, symbol, total
 
 Two usage examples:
 ```
-python3 cli.py -b bsc -a 0x2170Ed0880ac9A755fd29B2688956BD959F933F8
+python3 token_scout.py -b bsc -a 0x2170Ed0880ac9A755fd29B2688956BD959F933F8
 ```
 ```
-python3 cli.py -b ethereum -a 0xdAC17F958D2ee523a2206206994597C13D831ec7
+python3 token_scout.py -b ethereum -a 0xdAC17F958D2ee523a2206206994597C13D831ec7
 ```
 
