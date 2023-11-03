@@ -4,7 +4,7 @@ This repository contains the Token Dataset and Liquidity Pools Dataset used in t
 
 [Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://www.usenix.org/system/files/usenixsecurity23-cernera.pdf)
 
-Moreover, it contains a script to check whether an address is an ERC-20 (or BEP-20) compliant token and extract its information.
+Moreover, it contains TokenScout a script to check whether an address is an ERC-20 (or BEP-20) compliant token and extract its information.
 
 The full dataset contains all the ERC-20 (BEP-20) tokens and liquidity pools created on Ethereum (resp. BSC) from their inception to 2022-03-07. 
 See the paper for a more detailed description of the dataset generation process.
