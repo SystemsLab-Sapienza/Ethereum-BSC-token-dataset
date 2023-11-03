@@ -77,7 +77,7 @@ python3 token_scout.py -a address -b blockchain
 
 * **-b**: This argument indicates the blockchain to consider
     
-The script indicates all the ERC-20/BEP-20 functions and events implemented by the address.
+TokenScout indicates all the ERC-20/BEP-20 functions and events implemented by the address.
 Then, if it is ERC-20/BEP-20 compliant, it also provides the name, symbol, total supply, and decimal.
 
 Two usage examples:
